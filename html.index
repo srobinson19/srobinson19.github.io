@@ -6,7 +6,10 @@
     </head>
     <body>
         <img src="csc106_banner.jpg">
+        <a href="home.png">
         
+            <img src="home.png"></a>
+            
         <h1>Welcome to Shedrick's Programming Portal</h1>
         
     </body>
