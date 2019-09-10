@@ -6,7 +6,7 @@
     </head>
     <body>
         <img src="csc106_banner.jpg">
-        <a href="home.png" _target="img src="home.png"</a>
+        <a href="index.html" _target="img src="home.png"</a>
             
         <h1>Welcome to Shedrick's Programming Portal</h1>
         
