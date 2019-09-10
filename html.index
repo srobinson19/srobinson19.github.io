@@ -3,13 +3,18 @@
     <head>
         <meta charset="utf-8">
         <title>Shedrick's Programming Portal</title>
+        
+         <a img src="home.png"> href="home.png" _target="img src="home.png"</a>
+        
     </head>
     <body>
+        
+        
         <img src="csc106_banner.jpg">
         
         
         
-        <a img src="home.png"> href="home.png" _target="img src="home.png"</a>
+       
             
         <h1>Welcome to Shedrick's Programming Portal</h1>
         
