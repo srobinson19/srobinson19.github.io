@@ -11,7 +11,26 @@
         
         
         <img src="csc106_banner.jpg">
-        
+          <table>
+            
+            <thead>
+                
+                <tr>
+                                   
+                    <th> 
+                                           
+                        <a a href="home.lhtml"><img src="home.png"></a> 
+                        <a href="javasripts.html"><img src="javascripts.png"></a>                                                
+                        <a href="apps.html"><img src="apps.png"></a
+                        <a href="about me.html"><img src="about.png"></a>
+                                                                   
+                        
+                    </th>
+                    
+                </tr>
+            </thead>
+            
+        </table>
         <a img src="home.png"> href="home.png" _target="img src="home.png"</a>
         
        
