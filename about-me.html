@@ -12,17 +12,30 @@
             
             h2 {color: rgb(0, 232, 15);
                 
-            }
-            
-            
-            
+            }     
+                
+           * {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+                
         </style>
         
     </head>
        
     
     <body>
-                    
       
         <img src="mybanner.jpg">
         
@@ -36,8 +49,7 @@
         </table>
         
         <h1><em> Hello, I'm Shedrick</h1></em>
-                
-                     
+                    
        <p>      
         <ul>
        <li>I am a student veteran pursuing a major in Computer Science and a minor in Cybersecurity.</li>
@@ -61,11 +73,15 @@
         <p> When I am not learning how to program, I spend time composing music and attending music conferences.<br>
             I have been able to meet and learn from he likes of:</p>
        
-        float                                                  
-        <img src="eric.png" alt="Eric Benet">
-    
-        <img src="brian.png" alt="Brian McKnight">
-    
+        <div class="clearfix">
+  <div class="img-container">
+  <img src="img src="eric.png" alt="Eric Benet" style="width:100%">
+  </div>
+  <div class="img-container">
+  <img src="brian.png" alt="Brian McKnight" style="width:100%">
+  </div>
+  
+</div>                                                 
        
           
           
